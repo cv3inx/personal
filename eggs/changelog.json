@@ -1,5 +1,12 @@
 [
-  "name": "+Playit.gg",
-  "Message": "Added Playit.gg For tunneling mc server/tcp server",
-  "date": "10/03/2025"
+  {
+    "name": "+Playit.gg",
+    "message": "Added Playit.gg For tunneling mc server/tcp server",
+    "date": "10/03/2025"
+  },
+  {
+    "name": "+EGGS Update",
+    "message": "Improved ALL",
+    "date": "15/03/2025"
+  }
 ]
